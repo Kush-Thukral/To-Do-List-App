@@ -10,13 +10,7 @@ A clean, minimal To-Do List App built with Python's Tkinter library.
 - Dark minimal UI (Nord theme inspired)
 
 ### 🛠 Built With:
-- Python 3.x
 - Tkinter (no external dependencies)
-
-### 🖼 UI Snapshot *(optional)*
-_Add a screenshot here when you're ready_
-
----
 
 ### ▶️ Run It
 
